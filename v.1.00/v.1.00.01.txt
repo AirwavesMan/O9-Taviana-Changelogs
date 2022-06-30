@@ -1,0 +1,9 @@
+Changelog: v.1.00.01
+
+[Updated]: When the player tries to sleep the inventory will close now.
+[Updated]: Decreased spawn rate of morphin.
+[Updated]: Decreased spawn rate of zombies spawning with backpacks.
+[Updated]: Increased spawn rate of cement bags in Constrution Sites.
+[Fixed]: When killing a viral zombie there was a chance that a grenade could explode. Only military zombies have this.
+[Fixed]: Barracks at Krasnosnamensk Airfield and the power plant did not spawn any loot.
+[Fixed]: The percentage of XP scale related to the actual collected XP was not correct.
