@@ -1,0 +1,10 @@
+Changelog: v.1.00.02
+
+[Replaced]: The old revolver gold from arma 2 got replaced with the new epoch version.
+[Replaced]: lb with kg as weight parameter for the english translation.
+[Removed]: EvDogTags from zombies, those are no longer used
+[Added]: Road flares and chem lights to military loot and zombies.
+[Updated]: Lower consumable loot for residential buildings.
+[Updated]: Increase spawn chance of engine and fuel tank slightly.
+[Fixed]: Zombie grenades did no damage the player.
+[Fixed]: The building limit had a wrong variable so the correct building limit was not displayed.
