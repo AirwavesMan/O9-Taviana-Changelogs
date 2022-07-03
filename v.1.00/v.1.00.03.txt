@@ -1,0 +1,14 @@
+Changelog: v.1.00.03
+
+[Added]: Survival XP to boil water bottles.
+[Added]: Toolbreak chance to repair and salvage vehicles.
+[Updated]: Increase XP chance for salavage and repair.
+[Updated]: Increase loot chance for workshops.
+[Updated]: Increase spawn chance of levers.
+[Updated]: Increase loot chance for certain military barracks.
+[Updated]: Lower break chance from boiling water bottles from 10% to 3%.
+[Updated]: Tents, stashes, the workbench, fireplaces, storage crates and camo crates can be placed without the building check within a certain area.
+[Fixed]: Blinding sun during the day time.
+[Fixed]: Boiling water did not work.
+[Fixed]: Reloading ammo like L110 into M249 did not work.
+[Fixed]: Plot dome did not work when using from the plot management.
