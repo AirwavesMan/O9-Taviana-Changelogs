@@ -1,0 +1,27 @@
+[Added]: Mechanic zombie loot and mechanic zombies.
+[Added]: Mechanics Toolbox to workshop loot.
+[Added]: Many loot position for almost all military buildings.
+[Added]: Maintain costs, bank upgrade and bank limt rise values to journal.
+[Added]: Crafting ropes from kilo of hemp.
+[Added]: Message when the player is getting very thristy.
+[Added]: 1% break chance of every melee weapon when killing a zombie.
+[Updated]: Reduce the need of sleep by 50%.
+[Updated]: Driving an ATV, a bike, a motor bike, a PBX or flying a Mozzie will no longer heat up the player just from sitting on or in the vehicle.
+[Updated]: Being in a vehicle which is not an ATV, a bike, a motor bike, a PBX or flying a Mozzie needs a started engine now in order to get warm inside of the vehicle.
+[Updated]: Riding a bike heats you up. This is the same as running.
+[Updated]: Tents can no longer be overrun.
+[Updated]: To craft tents players will need ropes now.
+[Updated]: Eagle Eye perk description so it is less confusing.
+[Updated]: Increase the rad suit chance from labor crates.
+[Updated]: Lower time between the hunger sound and message that the player is getting hungry. So it cannot be missed that often.
+[Fixed]: Military zombies could still explode when they were dead already.
+[Fixed]: Big loot spawn position of buildings were empty very often.
+[Fixed]: Wrong right click text when crafting winter tents from tent poles.
+[Fixed]: Wrong message about the keys to open the Info Menu, when the message to a server update popped up.
+[Fixed]: Recycle tents will no longer drop more items as items got needed for crafting.
+[Fixed]: Changing the view distance did not need a binocular or a rangefinder. This was disabled during the test phase.
+[Fixed]: Maintain costs were too high.
+[Fixed]: Empty inventory after upgrading a tent or a stash.
+[Fixed]: When looking at the hideout of someone else the scroll message of the hideout did not disappear.
+[Removed]: The fuel pump will no longer spawn in worker zombies, industrial and work in progress buildings.
+[Removed]: Confusing message about only one needed missing item when upgrading a building.
