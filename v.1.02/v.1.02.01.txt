@@ -1,0 +1,11 @@
+[Added]: Plastic parts can be crafted from 4x empty fuelcans 5L now.
+[Added]: Refueling with fuel pump.
+[Added]: Metal Supports to loot and crafting.
+[Updated]: Gun Racks and wood crates need 2x nails now instead of 1x nails.
+[Updated]: Increase break in chance for non upgraded lockboxes from 50% to 70%.
+[Updated]: Lower hunger and thirst rate.
+[Fixed]: Police Officer 2 skin could not be worn.
+[Fixed]: The Sepsis Bandage recipes got not shown.
+[Fixed]: Castle zombies could explode.
+[Fixed]: The plot pole could not be removed.
+[Fixed]: Wire could not be crafted from metal poles.
