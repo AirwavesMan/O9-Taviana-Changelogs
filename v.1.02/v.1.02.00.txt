@@ -1,0 +1,19 @@
+[Added]: Medical and mechanic books to the loot.
+[Added]: Medical and mechanic books can be read now.
+[Added]: Lockboxes can be crafted now.
+[Added]: Winter tents, pvc box, winter and woodland ghillie attachment, code block and batterie to the loot.
+[Added]: Building restrictions for all the mining areas.
+[Added]: Crafting buildables gives build XP now.
+[Updated]: Reduce the occurrence of blow-outs.
+[Updated]: Lower ammo in ammo boxes.
+[Updated]: Dr. Ivan getting no longer damage being overrun with cars.
+[Updated]: Dr. Ivan absorbs more damage now.
+[Updated]: The view distance can no longer be changed in the mutant camp.
+[Updated]: The -RP punishment when hiding the own body got removed.
+[Updated]: Actions which attract zombies will attract mutants too now.
+[Updated]: Mutants can no longer be overrun.
+[Fixed]: When a hatchet broke while harvesting wood an error occurs and player got no broken hatchet.
+[Fixed]: View distance reset when leaving the mutant camp.
+[Fixed]: Mutants were not invisible when running to the player.
+[Fixed]: The entrance of the Mutant Camp and Labor could be blocked by buildables.
+[Fixed]: Mutants did not react if they got hit by shoots.
