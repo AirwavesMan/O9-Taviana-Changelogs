@@ -1,0 +1,10 @@
+Changelog: v.1.02.02
+
+[Added]: New loot positions for police stations.
+[Added]: Forced auto repair if air vehicles are fully repaired and the damage of the selections is under 7% damage. This fixed the leaking fuel problem.
+[Added]: One new prisoner zombie model.
+[Updated]: The animated crash sites got replaced with the normal spawn crash sites. This is a preparation for the heli patrols.
+[Fixed]: Crafting Plastic Parts did not work.
+[Fixed]: Show code for fresh build locked storage displayed only 0.
+[Fixed]: Floating loot within the police stations.
+[Fixed]: Upgrading locked storage was not possible due to owner issues.
