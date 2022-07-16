@@ -1,0 +1,39 @@
+Changelog: v.1.03.00
+
+[Added]: New Info Menu entry about exploding military zombies.
+[Added]: New Info Menu entry about the cleanup time of dead player bodies.
+[Added]: Salmon and Carp can be caught now.
+[Added]: Sandbags can be found in Constructions Sites now.
+[Added]: Mortar can be crafted now.
+[Updated]: Remove recycle fuel can.
+[Updated]: Lower loot chance for the long white farm building.
+[Updated]: Increase base chance to catch animals with traps by %5 from 10% to 15%. The max. chance is 40% now.
+[Updated]: The chance to catch animals with traps will be displayed in the XP-System now.
+[Updated]: Allow the build of workbenches and fire places in all areas.
+[Updated]: Normal bear traps can only build outside the plot radius now.
+[Updated]: The trap that got set up to catch animals is persistent now and will no longer despawn after restart. Those traps have to be disarmed and armed again after every restart and relog or death.
+[Updated]: Remove Doctor zombies from Military Buildings.
+[Updated]: Slightly lower the damage of new vehicles.
+[Updated]: Tents can only be destroyed by bandits now.
+[Updated]: Bandits getting +RP and +XP from destroying tents.
+[Updated]: The amount of -RP when a hero kills other player as a bandit got increased by 100%.
+[Updated]: The damage of Dr. Ivan got increased by 20%.
+[Updated]: The GUI including the quick slot task bar will no longer be shown when sleeping, being unconscious or in spawn menu.
+[Updated]: The break chance of the fishing pole got lowered from 3% to 1%.
+[Updated]: Fire places should no longer be cleaned until restart.
+[Updated]: Fishing got updated - many new items can be fished now depending where the player fishs.
+[Updated]: Tunas can only be fished in deep water. Players getting a notification if the area they are at is a good spot.
+[Updated]: The time to catch something while fishing got highly increased.
+[Updated]: Many books got re-named to avoid confusion when a book can be read.
+[Fixed]: When removing buildables, the refund parts could threw errors messages.
+[Fixed]: When reading a book the function to get a stash did not work corrently.
+[Fixed]: Wooden bases got not registered as shelter.
+[Fixed]: Only the owner of a trap can take, arm or disarm them.
+[Fixed]: Build XP Level 1 Perk set not the correct animation steps for building.
+[Fixed]: Arm traps did not work correctly.
+[Fixed]: The GUI still got shown sometimes after the player died.
+[Fixed]: Player sync problem when being in the lower left corner of the map.
+[Fixed]: Wrong message after reading a book that the book got lost.
+[Fixed]: The 5s abort time when sleeping did not work.
+[Fixed]: Sometimes players could not respawn after because the keyboard did not work.
+[Fixed]: Missing weights for cooked carp and salmon.
