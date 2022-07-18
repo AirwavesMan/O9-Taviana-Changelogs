@@ -1,0 +1,6 @@
+Changelog: v.1.03.02
+
+[Added]: Building, military and mechanic rewards for quests.
+[Updated]: Remove needed toolbox for unpacking or packing bulks.
+[Fixed]: Sandbag packing into bulk crates did not work.
+[Fixed]: Bulk crates could not be unpacked.
