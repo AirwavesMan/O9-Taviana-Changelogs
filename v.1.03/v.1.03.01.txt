@@ -1,0 +1,12 @@
+Changelog: v.1.03.01
+
+[Added]: New loot positions for the green medical tents.
+[Added]: Paramedic zombie.
+[Added]: 20mg antibiotics and painkillers.
+[Updated]: Better message to wait 5s before the player can sleep.
+[Updated]: Lower ammo in ammo crates from crash sites.
+[Updated]: Quests have medical rewards now.
+[Fixed]: Due to a faulty loot configuation at heli crash sites could have less loot as intended.
+[Fixed]: Almost no loot spawned in zombies.
+[Fixed]: Player sync problem after a battleye kick. Players could no longer login after the kick.
+[Fixed]: Sleeping did not work.
