@@ -1,0 +1,13 @@
+Changelog: v.1.03.03
+
+[Added]: Recycling of certain tools.
+[Updated]: Copy key gives mechainc XP now.
+[Updated]: Copy key needs the same items as create a key now.
+[Updated]: While copy key or create a key the keymarkers kit can break now.
+[Updated]: The broken Toolbox got removed.
+[Updated]: The break chance of all tools got updated.
+[Updated]: Heroes can bury bodies with an E-Tool too now.
+[Updated]: Remove secret notebooks. Those are currently not used.
+[Fixed]: Creating a key for a vehicle did not work.
+[Fixed]: The tool break did not work correctly.
+[Fixed]: Missing loot positions for the long brown damaged barn.
