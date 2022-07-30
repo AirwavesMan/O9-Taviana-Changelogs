@@ -1,0 +1,55 @@
+Changelog: v.1.04.00
+
+[Added]: Better puls check for unconscious players. The puls indicates better about the players health condition.
+[Added]: New Unconscious System.
+[Added]: New Medical System.
+[Added]: Gutting animals, zombies and bloodsuckers with machete or hatchet.
+[Added]: The plot pole can be upgraded now. Currently only 2 from 4 levels are active.
+[Added]: Many new items got added to the game.
+[Updated]: Lower chance of tool breaking when harvesting wood.
+[Updated]: Increase the loot chance of workshops a bit.
+[Updated]: Increase the chance that an engine spawns in military hangers
+[Updated]: All wooden building need a Toolbox, a Handsaw and a Hammer to be crafted now.
+[Updated]: Increase the build height by 5m.
+[Updated]: Lower hero xp for zombies.
+[Updated]: The logout messages for the labor and mutant camp are localized now.
+[Updated]: Remove Pain from the Blowout, when the player was in cover.
+[Updated]: Unlocking a door opens the door directly now. You no longer need a seperate open door.
+[Updated]: Unlocking a door plays always the unlock sound now.
+[Updated]: Only players inside the plot pole have the Unlock Door option now.
+[Updated]: Downgrading a locked door works without unlocking the door now. Only players inside the plot pole can do this.
+[Updated]: Supermarket loot got updated.
+[Updated]: Tents can only be upgraded if the upgrade storage perk got reached.
+[Updated]: Farm Loot has seeds, pumpkins, raw carrots and raw potatos as loot now.
+[Updated]: Every knife can be sharpened now.
+[Updated]: While getting XP from gutting it can be 25% survival XP or 75% harvest XP.
+[Updated]: While getting XP from fishing it can be 50% survival XP or 50% harvest XP.
+[Updated]: While getting XP from harvesting plants it can be 25% survival XP or 75% harvest XP.
+[Updated]: Increase the chance of getting sick if the is too cold over a longer time.
+[Updated]: Fireplaces and all other lit objects can combine bars now.
+[Updated]: Blowouts will no longer knock out players if they are in save areas like bases, houses or safezones. Be careful, stay aways from windows.
+[Updated]: Blowouts doing much more damage now, at least 7000 to 10000 blood damage when you are not save.
+[Updated]: If the radio is enabled, the player gets multiple warning messages about an incoming blowout now.
+[Updated]: Blowouts will kill zombies now.
+[Updated]: Zombies will no longer respawn that fast.
+[Updated]: The AI-Mission HMWWV Crash has now only a 40% chance that a lootable HMWWV spawns.
+[Updated]: Normal wheels can be recycled too now.
+[Updated]: The number of the actual Plot Level can be found in the diary now.
+[Updated]: Sheeps can drop whool too now.
+[Fixed]: Any mainweapon could break.
+[Fixed]: Fire could not be lit.
+[Fixed]: Sound error in copy key.
+[Fixed]: The tool break of Scrap vehicles did not work.
+[Fixed]: Wrong sepsis value in description for the sepsis perk.
+[Fixed]: Compost and plants could not be fertilized with Harvest Perk Level 3.
+[Fixed]: Boop noise at the end of harvest sound.
+[Fixed]: Lockbox could not be opened if someone else as the owner tried to enter a code.
+[Fixed]: Everyone could open the doors of the other bases after they opened their own doors at least once.
+[Fixed]: Heroes got no faction XP from Bury Bodies.
+[Fixed]: Heroes got too less +RP from Bury Bodies.
+[Fixed]: The logout restriction range for the Labor and the mutant camp was too low so player could logout and got ported back to the entrance of those points of interests.
+[Fixed]: When players got unconscious because of not enough sleep the unconscious animation did not knock down the player.
+[Fixed]: Upgrading vehicle gave XP even if the upgrade was not possible.
+[Fixed]: Players could spawn on top of the mountains into the snow.
+[Fixed]: Pumpkins could not be harvested from map spawned fields.
+[Fixed]: Removing a half wood wall could refund more as the wall cost.
