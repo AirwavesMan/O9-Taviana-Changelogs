@@ -1,0 +1,11 @@
+Changelog: v.1.04.01
+
+[Added]: Loot for the mechanic boss zombie.
+[Updated]: Higher +RP gain if killing a mechanic boss zombie.
+[Updated]: Check missions needs a radio now.
+[Updated]: The weight value in the GUI in now a rounded value.
+[Fixed]: Sleeping did not work.
+[Fixed]: After changing clothes the quest counting did no longer work.
+[Fixed]: Certain medical action were shown if the player was not unconscious. This was not intended.
+[Fixed]: Players only bleed from zombie hits.
+[Fixed]: Crafting compost did not work.
