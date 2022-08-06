@@ -1,0 +1,12 @@
+Changelog: v.1.04.02
+
+[Added]: Repair frame option to air vehicles if the vehicles are still damaged after all hitpoints got repaired.
+[Updated]: Combine bars got splint into Gold and Silver bars and can no longer combined into each other.
+[Updated]: The infection chance from a low temperature got lower from 45% to 20%.
+[Fixed]: Some shelter positions got not properly recognized by the blowout.
+[Fixed]: Combine bars did not work properly.
+[Fixed]: After a XP-Level up player could loose this Level if they left the server too fast.
+[Fixed]: The level to be able to recycle weapons with the mechanic perk was set too high.
+[Fixed]: Crafting 12x sandbags crate did not work.
+[Fixed]: Unpack 6x sandbags crate did not work.
+[Fixed]: Garlic and comfrey could not be planted.
