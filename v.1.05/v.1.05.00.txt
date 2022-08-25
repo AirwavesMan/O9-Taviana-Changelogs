@@ -1,0 +1,23 @@
+Changelog: v.1.05.00
+
+[Added]: Icons for broken legs and arms.
+[Added]: Chance that the currently harvested plant drops some seeds.
+[Added]: Crossbow parts to hunting loot.
+[Added]: Miner zombie with mining loot.
+[Added]: New loot positions for the mining building.
+[Updated]: Remove WA2000 from the loot, it was unintended to be there.
+[Updated]: The reward values for killing animals got increased by 300% and are much better now.
+[Updated]: The stash loot got re-build.
+[Fixed]: Missing item description for quests to get silver bars.
+[Fixed]: Upgrading helis and tanks did not work.
+[Fixed]: The number of delivered dog tags to the smuggler got not calculated correctly.
+[Fixed]: Melting ores in the inventory stop after one loop.
+[Fixed]: Wrong description of additional +RP after a level up at the smuggler when exchanging dog tags.
+[Fixed]: Comfrey plants could not be harvested.
+[Fixed]: The option to craft a sepsis bandage from gauze was missing.
+[Fixed]: The recipe to craft bandages was not correct.
+[Fixed]: Broken traps got not deleted correctly and were back after restart.
+[Fixed]: Arm and disarm traps took a really long time.
+[Fixed]: Stashes could spawn in water.
+[Fixed]: Notification about a new update did not pop up after login.
+
