@@ -1,0 +1,8 @@
+Changelog: v.1.05.01
+
+[Added]: Mining building at the Iron Mining Area.
+[Fixed]: Barracks could not be entered without jumping near Stari Sad.
+[Fixed]: Players could see through the bunker at the Iron Mine.
+[Fixed]: The radioactive area at the mutant camp was too large.
+[Fixed]: The crossbow parts created an error on spawn.
+[Fixed]: The login range check if a player logged out near the Labor was still too large.
