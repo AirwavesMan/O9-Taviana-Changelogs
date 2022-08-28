@@ -1,0 +1,6 @@
+Changelog: v.1.05.02
+
+[Added]: 3h day and 1h night each restart.
+[Added]: Indicator which level a Trader City has to the map markers.
+[Fixed]: The ESC menu could not be opened sometimes.
+[Fixed]: The Info Menu for new players did not pop up after the first login.
