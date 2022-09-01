@@ -1,0 +1,8 @@
+Changelog: v.1.05.03
+
+[Updated]: 2h 30min day and 1h 30min night each restart.
+[Updated]: The day and night change is a bit smoother now.
+[Fixed]: Hideouts could not be removed.
+[Fixed]: After spawning a vehicle from the virtual garage, the key of the vehicle got not added to the players inventory.
+[Fixed]: After spawning a vehicle from the virtual garage, the vehicle was almost fully repaired.
+[Fixed]: After spawning a vehicle from the virtual garage, the vehicle was unlocked
