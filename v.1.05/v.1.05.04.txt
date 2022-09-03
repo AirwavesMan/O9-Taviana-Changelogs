@@ -1,0 +1,6 @@
+Changelog: v.1.05.04
+
+[Added]: Warning when the player is laying too long in water.
+[Updated]: The pain camera shake is stronger now.
+[Fixed]: Sepsis message spam.
+[Fixed]: Phosphorous grenades did not work.
