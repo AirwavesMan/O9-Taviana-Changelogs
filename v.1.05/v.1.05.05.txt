@@ -1,0 +1,6 @@
+Changelog: v.1.05.05
+
+[Added]: Fuel tanks have an option to check how much fuel is still inside.
+[Updated]: Repairing a broken solder needs a fire and an advanced workbench nearby now.
+[Fixed]: Repairing a broken GPS, broken rangefinder and broken night vision did not work.
+[Removed]: Smartphone, Broken Smartphone, Broken Machete, Broken Screwdriver Set, Radio and Broken Radio spawn.
