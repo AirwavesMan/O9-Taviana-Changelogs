@@ -1,0 +1,47 @@
+Changelog: v.1.06.00
+
+[Added]: Trader Cites can be upgrade by players now. More in the Info Menu under Trade.
+[Added]: The starter gear has flares now.
+[Added]: The WA2000 ammo can now be crafted.
+[Added]: If a trader brings a present to a hero player and the player has not plot pole or safe a message will tell the player now to get one.
+[Added]: Getting coins as present from a trader plays a soudn now.
+[Added]: Players can check their popularity from NPCs now.
+[Added]: Treasure Event
+[Added]: Bandits can hotwire small hideouts now.
+[Added]: Glue can be crafted now.
+[Added]: Razors can be crafted now.
+[Added]: Toiletpaper can be crafted now.
+[Added]: Empty fuel cans, jerry cans and fuel barrles can be filled with water now.
+[Updated]: Repairing a broken chainsaw needs an advanced workbench nearby now.
+[Updated]: Repairing a broken crowbar needs a hammer now.
+[Updated]: The amount of coins found in a hidden bag while recycling a backpack got lowered.
+[Updated]: Crafting compost has the digging sound now.
+[Updated]: Certain objects need a workbench to be build now.
+[Updated]: If create key fails, the player gets its items back and the vehicle will be unlocked now.
+[Updated]: Plot deeds can also be found as loot from Dr. Ivan and in Labor Loot now.
+[Updated]: Using a melee weapon consums less food and water now.
+[Updated]: The script to take a dump got moved to the toiletpaper rightclick.
+[Updated]: Take a dump consumes one toiletpaper now.
+[Updated]: Filling water containers fill now only one container each animation.
+[Fixed]: The heli pad to spawn vehicle on top of the base could not be build.
+[Fixed]: The recipe for building a heli pad to spawn vehicle on top of the base was missing in recipe list.
+[Fixed]: The broken rangefinder could not be repaired.
+[Fixed]: The oil press could be used before reaching harvest level 6.
+[Fixed]: Comfrey seeds could not be pressed into oil.
+[Fixed]: Sometimes vehicles without a key could not be claimed.
+[Fixed]: The recipe to repair a broken wheel was missing in recipe list.
+[Fixed]: Stay in water message spam when the player was in water.
+[Fixed]: The abort message was missing when the player could not deploy a PBX or a Mozzie because he had not the correct XP level.
+[Fixed]: The out fading message about coins never had the correct coin value displayed.
+[Fixed]: Often examine a zombie had no displayed message.
+[Fixed]: Examine a zombie played no sound when coins were found.
+[Fixed]: The found coins from examine a zombie got no corretly calculated.
+[Fixed]: The fuel pump did not work with the fuel truck.
+[Fixed]: Removing a generator refunds nothing.
+[Fixed]: Re-adding a towing cable to the inventory when untowing a vehicle if the inventory was full did not work sometimes.
+[Fixed]: Re-adding items to the players inventory if the inventory was full did not work sometimes.
+[Fixed]: The Hero Perk to get presents from NPCs from time to time ddid not work.
+[Fixed]: The Survival Treasure Perk had no function.
+[Fixed]: The Forger Level got resetted to 0 after changing clothes.
+[Fixed]: With a higher Plot Upgrade under special circumstances vehicles could not be spawned from the virtual garage.
+[Fixed]: The recipes of the plot upgrade level 3 were not correct.
