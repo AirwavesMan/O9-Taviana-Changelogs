@@ -1,0 +1,4 @@
+Changelog: v.1.06.01
+
+[Fixed]: Vehicles with a key were not locked after a restart.
+[Fixed]: The male version of the light collector armor had the wrong cold insulation.
