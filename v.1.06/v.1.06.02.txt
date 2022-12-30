@@ -1,0 +1,14 @@
+Changelog: v.1.06.02
+
+[Added]: 150 Collector wrecks that can be search for spawn every server restart now.
+[Updated]: The Trader Upgrade handles some items differently now e.g.: If Painkillers are needed Painkillers with 6 pills left can also be added to the upgrade.
+[Updated]: The menu to send coins to a player got reworked.
+[Updated]: Crafting in shed with trash cans got disabled temporally.
+[Updated]: The chance to get infected water from a pond got increased from 6% to 45%.
+[Updated]: Drinking on a well with hands or trash cans recovers different water values now.
+[Updated]: The trader prices for building supplies on the trader island got increased.
+[Fixed]: The Hero Safe was empty after server restart if a player did not use it before.
+[Fixed]: Heli crashes and Collector treasures should no longer spawn in water.
+[Fixed]: Untowing a vehicle does not return a towing cable to the player.
+[Fixed]: Removing an object a Collecor could search for spawned no loot.
+[Removed]: Removed 150Rnd DSHKM Ammo from quests since the ammo cannot be optained currently.
