@@ -1,0 +1,19 @@
+Changelog: v.1.07.00
+
+[Added]: Indicator if a backpack can be upgraded in the backpack description and the trader.
+[Added]: Applying a self blood bag will display how much blood got restored.
+[Added]: Plot Level 4
+[Added]: Open the Plot Management displays many new helpful information now.
+[Added]: The 1 and 2 Inch Metal Pipes and the Water Tank can be crafted now.
+[Added]: Clothes which have a female and a male version can be stitched to each other now.
+[Updated]: Searching Collector wrecks brings at least 2 items now if something got find.
+[Updated]: All scroll action on the plot pole got move to the Plot Management.
+[Updated]: When being unconscious in a vehicle players getting ejected now when the unconscious time is higher as 3 seconds.
+[Updated]: Being in a vehicle with no roof like a bike, ATV, rubber boat and more while a blowout hits will eject the player from the vehicle now.
+[Updated]: Only one player can open the trader upgrade to the same time now.
+[Updated]: Adding coins to upgrade the trader takes only the maximum needed coins now.
+[Fixed]: Origins backpacks could not be sold.
+[Fixed]: When examine a zombies players could find a value 0 coins.
+[Fixed]: Traps could not be built at Survival Level 2.
+[Fixed]: No medical supplies could be bought at the trader island.
+[Fixed]: The RP gain for Collectors for the actions: Examine Body, Check Wallet and Take Clothes, wrere missing.
