@@ -1,0 +1,19 @@
+Changelog: v.1.08.00
+
+[Added]: Backpacks can be upgraded now.
+[Added]: Small cooldown when re-starting to Upgrade the Plot Pole to make sure everything loads correctly.
+[Added]: Small cooldown when upgrading the trader to make sure everything loads correctly.
+[Added]: New male and female coughing sounds when infected.
+[Added]: Players can talk to the guards at Trader Cities now.
+[Added]: Watertanks can be filled with water now.
+[Added]: Plot Level 5.
+[Updated]: Decrease the chance of foggy weather.
+[Updated]: Melee weapons will no longer be dropped when hold inside a Safe Zone.
+[Updated]: Vehicles will no longer explode when inside of a Safe Zone. This prevents damaging other vehicle when inside a Safe Zone.
+[Updated]: When entering a Safe Zone vehicles have an owner now so nobody else can steal vehicles or gear from vehicles in Safe Zones.
+[Updated]: The explosion radius of a helicopter or plane got increased.
+[Updated]: The loot chance for mining building got decreased from 40% to 25%.
+[Updated]: The loot chance for water pump got decreased from 40% to 20%.
+[Fixed]: Plot Level 4 got not the correct bulding values set.
+[Fixed]: The filled fuel amount into a fuel tank from a player saved sometimes not correctly.
+[Fixed]: The wrong Plot Upgrade Level as text message got shown when a Upgrade was successful.
