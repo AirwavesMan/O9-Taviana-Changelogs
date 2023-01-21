@@ -1,0 +1,8 @@
+Changelog: v.1.08.01
+
+[Updated]: Only the owners of the vehicles can lift/tow vehicles in a Safe Zone.
+[Updated]: Only the owners can scrap its vehicle in a Safe Zone.
+[Updated]: Deloyed vehicles can no longer be packed in a Safe Zone if you are not the owner of this vehicle.
+[Fixed]: Changing Code of a Lockbox or a Safe did not work.
+[Fixed]: Filling fuel or water into a fresh built tank before a server restart did not save the fuel or the water.
+[Fixed]: The fishing perk was missing.
