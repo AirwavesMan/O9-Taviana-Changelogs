@@ -1,0 +1,12 @@
+Changelog: v.1.08.02
+
+[Added]: Warning message that vehicles left at the mutant camp will be cleared after server restart.
+[Updated]: The watermark of the server in the GUI can be hidden now with F3 too.
+[Fixed]: A message about the needed materials when copy a key was missing.
+[Fixed]: Spawning a vehicle from the Virtual Garage did not choose the correct helipad if more heli pads as one were inside the plot pole radius.
+[Fixed]: Bear traps could only be armed after 10s when they were build.
+[Fixed]: Loot of a crashed vehicle should no longer be cleared.
+[Fixed]: Fuel and Water in a tank did not save over restart.
+[Fixed]: Trader Upgrade process did not work.
+[Fixed]: Items that were not needed by the Trader Upgrade got sill deleted when donated.
+[Fixed]: When buying a vehicle in a Safe Zone the owner got not set properly.
