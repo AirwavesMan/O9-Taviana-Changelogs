@@ -1,0 +1,27 @@
+Changelog: v.1.08.00
+
+[Added]: 1300Rnd Pook Ammo can be found in Ammo Crates now.
+[Added]: 1300Rnd Pook ammo can be crafted now.
+[Added]: Different coin gain actions have a sound now.
+[Added]: Every water container can be filled from the player built water tank now.
+[Added]: New Air Drop Event with a map marker
+[Added]: New Air Drop Event without map marker.
+[Added]: Helicopter Patrol on a fixed route around the map.
+[Added]: Eletronic Cables and Eletronic Circuits can be looted from industrial buildings and vehicles now.
+[Added]: Plot Level 6
+[Updated]: Deployed vehicles can no longer explode.
+[Updated]: Lowered chance of loot in general.
+[Updated]: All recipes of the Plot Pole Upgrade have their own menu under recipes now for a better overview.
+[Updated]: The current needed recipe to upgrade the Plot Pole is higlighed in green color within the Plot Pole Upgrade recipes now.
+[Updated]: Catching animals with Bear Traps works over a relog and a restart now.
+[Updated]: Players get no longer a notification if something got caught with the Bear Trap.
+[Fixed]: The displayed XP gain when a mission got finished will no longer be hidden by the RP and Coins gain from the mission.
+[Fixed]: Killing Zombies that were spawned by another player did not calulate the correct RP and XP sometimes.
+[Fixed]: Filling an empty jerry can with water add an empty fuel can to the inventory.
+[Fixed]: The treasure event had a 100% chance to spawn. This was not intended. The new chance is 60%.
+[Fixed]: The Coyote Camping Backpack could not be recycled.
+[Fixed]: When a new player joined the server the Start Info Menu did not pop up.
+[Fixed]: The option to crafting water tank parts had a wrong naming.
+[Fixed]: Backpacks found at heli crashes will no longer spawn standing.
+[Fixed]: Bear Traps could catch animals if the player sit in a vehicle next to the trap.
+[Fixed]: AI Units caught with a trap got cleared too fast.
