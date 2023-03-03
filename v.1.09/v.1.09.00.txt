@@ -1,4 +1,4 @@
-Changelog: v.1.08.00
+Changelog: v.1.09.00
 
 [Added]: 1300Rnd Pook Ammo can be found in Ammo Crates now.
 [Added]: 1300Rnd Pook ammo can be crafted now.
