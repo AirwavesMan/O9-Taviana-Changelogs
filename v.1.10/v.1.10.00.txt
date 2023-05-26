@@ -1,0 +1,20 @@
+Changelog: v.1.10.00
+
+[Added]: New Info Menu Section about the AI System.
+[Added]: Players can now kill themselves if they have no weapons in their inventory.
+[Updated]: The AI system has been completely overhauled.
+[Updated]: The login system was completely rewritten, which eliminated several bugs.
+[Updated]: The food values of the individual food items used for the Trader Upgrade have been revised. For example, canned food brings twice the food value than before.
+[Fixed]: When swimming in water, the gear got not properly synced so all magazine items got wiped from the inventory if the player logged out in water.
+[Fixed]: When upgrading a Safe or a Lockbox the code of them got resetted to 0000.
+[Fixed]: The Up in the Air AI Mission had the from AI faction.
+[Fixed]: Upgrading vehicles did not work if the vehicle contained too many items.
+[Fixed]: When making a water pump with a right click on the metal pipes, it said 'Build Water Pump' instead of 'Craft Water Pump'.
+[Fixed]: Pumpkin seeds could not be eaten.
+[Fixed]: When harvesting plants, an error message could occur if the chance was positive to get seeds from the harvested plant.
+[Fixed]: The 'No blocked spawns after death' perk from the collector was not working properly.
+[Fixed]: The group spawn perk from the hero was not working properly.
+[Fixed]: Some spawn gear variants from the Collector did not work properly on spawn.
+[Fixed]: The inventory of dropped cargo crates was not accessible for some players.
+[Fixed]: Sometimes players did not have cannabis field markers after their first login to the server.
+[Fixed]: If a player logged out lying down, he always logged in standing up.
