@@ -1,0 +1,11 @@
+Changelog: v.1.10.01
+
+[Updated]: The GUI now fades out when the player passes out in a blowout.
+[Updated]: Players can no longer sleep once a blowout is in the stage where players can't log out either.
+[Updated]: Players now wake up when a blowout begins.
+[Updated]: Fainting in the event of a blowout can now also be counteracted by injecting epinephrine yourself.
+[Updated]: Deployed vehicles can no longer be packed when the player is swimming in the water.
+[Updated]: When changing day and night it should now lag a little less.
+[Fixed]: Cargo drops were not announced over the radio.
+[Fixed]: If the player was asleep during a blowout, the black screen ended too soon.
+[Fixed]: Wooden floors 4x could be made before reaching the necessary XP level.
