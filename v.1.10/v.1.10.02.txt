@@ -1,0 +1,5 @@
+Changelog: v.1.10.02
+
+[Added:] An indicator of how well insulated the clothes the player is currently wearing has been added to the GUI next to the termometer.
+[Updated]: Buildings without a plot pole can no longer be build next to small hideouts of players to block the entrance.
+[Fixed]: No players could be added to the plot management.
